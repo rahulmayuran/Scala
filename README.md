@@ -62,4 +62,5 @@ Functional Style - emphasis on expressions (returns value) rather than statement
 
   maxSquareDoubled: Int = 288
 ```
-5. ...Continued  in Project section.
+5. ...Continued  in Project section. Create `.sc` files for running REPL commands instead of `.scala`
+ files as sbt compiles it.
