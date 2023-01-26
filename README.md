@@ -1,2 +1,3 @@
 # Scala
 All Scala related Programs
+Checkout other branches for more info... 
